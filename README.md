@@ -1,3 +1,5 @@
+Kontakt na discordu: pepa_73062
+
 Josef Ženka – SQL projekt – průvodní listina
 Primární tabulka: 
 Tady šlo o spojení platů a cen, respektive potřeboval jsem průměrný plat za profesi/rok a cenu za rok/komoditu. Nejprve jsem to zkoušel za použití Selectu a nakonec přešel k CTE.
